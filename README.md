@@ -1,51 +1,51 @@
-# switching
-Switching Labs Portfolio
-This folder contains a growing collection of enterprise-oriented switching labs designed to demonstrate practical understanding of Layer 2 and Layer 3 switching concepts commonly encountered in production networks.
+# CCNA-Portfolio-Samuel-Suarez
+# 🧰 CCNA Lab Portfolio – Built in GNS3 & Cisco Packet Tracer**
+Welcome! I’m Samuel Suarez — an IT professional, building my way into network engineering & cybersecurity through hands-on labs.
 
-Each lab emphasizes design intent, operational behavior, and troubleshooting logic rather than rote configuration. The goal is to reflect how switching technologies are planned, deployed, validated, and maintained in real environments.
+This repository is my hands-on CCNA portfolio, showcasing:
 
-🎯 Objectives
-These labs are built to:
+Configuration skills (switching, routing, security)
+Troubleshooting ability (broken → fixed labs)
+Documentation habits (configs, screenshots, markdown)
+Network design (home labs with pfSense, VMware, and Cisco Packet Tracer)
 
-Reinforce switching fundamentals with practical examples
-Demonstrate real-world topology behavior and recovery
-Explore routing and switching interactions (Layer 2 to Layer 3)
-Practice design thinking and validation skills
-Align with CCNA/CCNP foundations
+# 🔹 Lab Categories
 
-✅ Completed Labs
-🌀 STP – Spanning Tree Protocol
-Demonstrates the role of STP in preventing loops and enabling failover at Layer 2.
+**🔸 Switching Labs**
+VLAN & Inter-VLAN Routing
+Configure VLANs, router-on-a-stick, and troubleshoot common issues.
+STP
+**🔸 Routing Labs**
+Static & Dynamic Routing (OSPF focus) Showcases subnetting, route advertisement, and path selection.
+**🔸 Security Labs**
+ACLs – Traffic filtering and access control.
+NAT/PAT – IP translation for WAN/Internet access.
+**🔸 Troubleshooting Scenarios**
+Troubleshooting
+Intentionally broken labs to demonstrate diagnosis + repair process.
+**🔸 Complete Network Designs**
+Enterprise Networks
+Realistic design with segmentation, DHCP/DNS, and firewall zones.
 
-Key Topics:
+# 🧩 Skills Demonstrated
 
-Root bridge election
-Port states (forwarding/blocking)
-Path cost and priority tuning
-Convergence and redundancy behavior
+✔ VLAN segmentation & trunking
+✔ Router-on-a-stick inter-VLAN routing
+✔ Static & dynamic routing (OSPF)
+✔ ACLs (standard & extended)
+✔ NAT & PAT configuration
+✔ Systematic troubleshooting (ping, traceroute, show/debug)
+✔ Network documentation (configs, diagrams, markdown notes)
+✔ Firewall + home lab design
 
-🌐 VLAN & Inter-VLAN Routing (Router-on-a-Stick)
-Implements a segmented network with multiple VLANs and inter-VLAN routing using a router with subinterfaces.
+# 🎯 Why This Portfolio Matters
+Employers don’t just want certifications — they want proof of real-world, hands-on capability.
+This repo shows:
 
-Key Topics:
+Configuration fluency (raw configs + guides)
+Troubleshooting process (broken/fixed labs)
+Documentation habits (markdown + screenshots)
+Initiative: building labs without physical routers/switches
 
-VLAN creation and assignment
-Trunk vs access ports
-802.1Q encapsulation
-Subinterface design and default gateway roles
+_📌 Built with GNS3, Cisco Packet Tracer, VMware, VPCS, pfSense, and open-source tools._
 
-🧭 Lab Design Philosophy
-All labs follow these principles:
-
-Intent-Driven: Designs explain why the setup exists
-Troubleshooting-Aware: Labs include failure tests and recovery validation
-Enterprise-Realistic: Topologies are scalable, not just certification-focused
-Documentation-First: Each lab folder includes a README.md outlining goals and verification strategy
-
-🧰 Tools Used
-
-Cisco Packet Tracer
-GNS3 with Cisco IOS images
-Virtual hosts for testing
-Wireshark (when applicable)
-Tool selection depends on lab complexity and simulation needs.
