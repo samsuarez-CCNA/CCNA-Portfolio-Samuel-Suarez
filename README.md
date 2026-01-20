@@ -13,13 +13,12 @@ This repository is my hands-on CCNA portfolio, showcasing:
 ## 🔹 Lab Categories
 
 ### **🔸 Switching Labs** 
-- VLAN & Inter-VLAN Routing
- Configure VLANs, router-on-a-stick, and troubleshoot common issues.
-- STP  
+-  [VLAN & Inter-VLAN Routing](./switching-labs/VLAN-InterVLAN)  Configure VLANs, router-on-a-stick, and troubleshoot common issues. 
+-  [STP](./switching-labs/STP)
 ### **🔸 Routing Labs** 
-- Static & Dynamic Routing (OSPF focus) Showcases subnetting, route advertisement, and path selection.
+- [Static & Dynamic Routing (OSPF focus)](./routing-labs/static-ospf) Showcases subnetting, route advertisement, and path selection.
 ### **🔸 Security Labs**
-- ACLs – Traffic filtering and access control.
+- [ACLs](./security-labs/acl) – Traffic filtering and access control.
 - NAT/PAT – IP translation for WAN/Internet access.
 ### **🔸 Troubleshooting Scenarios**
 - Troubleshooting
