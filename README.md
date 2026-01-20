@@ -11,11 +11,11 @@ Network design (home labs with pfSense, VMware, and Cisco Packet Tracer)
 
 # 🔹 Lab Categories
 
-**🔸 Switching Labs**
+ # **🔸 Switching Labs**
 VLAN & Inter-VLAN Routing
 Configure VLANs, router-on-a-stick, and troubleshoot common issues.
 STP
-**🔸 Routing Labs**
+**🔸 Routing Labs** 
 Static & Dynamic Routing (OSPF focus) Showcases subnetting, route advertisement, and path selection.
 **🔸 Security Labs**
 ACLs – Traffic filtering and access control.
