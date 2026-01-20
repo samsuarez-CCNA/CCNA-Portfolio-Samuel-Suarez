@@ -18,7 +18,7 @@ This repository is my hands-on CCNA portfolio, showcasing:
 - STP  
 ### **🔸 Routing Labs** 
 - Static & Dynamic Routing (OSPF focus) Showcases subnetting, route advertisement, and path selection.
-## **🔸 Security Labs**
+### **🔸 Security Labs**
 - ACLs – Traffic filtering and access control.
 - NAT/PAT – IP translation for WAN/Internet access.
 ### **🔸 Troubleshooting Scenarios**
