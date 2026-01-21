@@ -1,0 +1,23 @@
+#
+# VLAN & Inter-VLAN Routing Lab – VPCS Configurations
+#
+
+# ======================
+# PC1 (VLAN 10 – SALES)
+# ======================
+set pcname PC1
+ip 192.168.10.10 255.255.255.0 192.168.10.1
+show ip
+# Expected output:
+#   IP     192.168.10.10/24
+#   GW     192.168.10.1
+
+# ======================
+# PC2 (VLAN 20 – HR)
+# ======================
+set pcname PC2
+ip 192.168.20.10 255.255.255.0 192.168.20.1
+show ip
+# Expected output:
+#   IP     192.168.20.10/24
+#   GW     192.168.20.1
