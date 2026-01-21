@@ -11,13 +11,14 @@ It also includes **broken variants** to practice troubleshooting, along with the
 - 1x Cisco IOSv Switch (SW1)
 - 2x VPCS hosts (PC1 in VLAN 10, PC2 in VLAN 20)
 
-_📸 See lab diagrams and configs in LAB_GUIDE.md._
+_📸 See lab diagrams and configs in [LAB_GUIDE.md](LAB_GUIDE.md)
+._
 
 ---
 
 ## 📂 Lab Structure
 ### 🔹 Base Lab
-- LAB_GUIDE.md – full walkthrough with configs & screenshots
+- [LAB_GUIDE.md](LAB_GUIDE.md) – full walkthrough with configs & screenshots
 ### 🔹 Troubleshooting Variants
 - **Variant 1 – Wrong VLAN Assignment**
   - Broken
