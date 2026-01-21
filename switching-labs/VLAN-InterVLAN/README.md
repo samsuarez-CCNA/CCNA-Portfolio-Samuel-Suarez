@@ -20,15 +20,17 @@ _📸 See lab diagrams and configs in [LAB_GUIDE.md](LAB_GUIDE.md)
 ### 🔹 Base Lab
 - [LAB_GUIDE.md](LAB_GUIDE.md) – full walkthrough with configs & screenshots
 ### 🔹 Troubleshooting Variants
-- **Variant 1 – Wrong VLAN Assignment**
-  - Broken
-  - Fixed
-- **Variant 2 – Missing Trunk**
-  - Broken
-  - Fixed
-- **Variant 3 – Wrong Default Gateway**
-  - Broken
-  - Fixed  
+- **Variant 1 – Wrong VLAN Assignment**  
+  - [Broken](./variant1-broken/README.md)  
+  - [Fixed](./variant1-fixed/README.md)  
+
+- **Variant 2 – Missing Trunk**  
+  - [Broken](./variant2-broken/README.md)  
+  - [Fixed](./variant2-fixed/README.md)  
+
+- **Variant 3 – Wrong Default Gateway**  
+  - [Broken](./variant3-broken/README.md)  
+  - [Fixed](./variant3-fixed/README.md)  
 
 ---
 ## 🧩 Key Skills Practiced
