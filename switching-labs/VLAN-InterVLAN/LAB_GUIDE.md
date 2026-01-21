@@ -142,7 +142,8 @@ This lab also includes intentionally broken scenarios to showcase troubleshootin
 ---
 ## 📄 Raw Config Files
 For quick reference, the full device configs are available as plain text:
-- [switch-config.txt](switching-labs/VLAN-InterVLAN/router-config.txt) – VLANs, access ports, and trunk config
+- [switch-config.txt](switching-labs/VLAN-InterVLAN/router-config.txt)
+ – VLANs, access ports, and trunk config
 - [router-config.txt](VLAN-InterVLAN/router-config.txt) – Router-on-a-stick subinterfaces
 - [vpcs-config.txt](VLAN-InterVLAN/vpcs-config.txt) – IP/gateway setup for PC1 & PC2
   
