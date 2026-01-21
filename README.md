@@ -19,9 +19,9 @@ This repository is my hands-on CCNA portfolio, showcasing:
 - [Static & Dynamic Routing (OSPF focus)](./routing-labs/static-ospf) Showcases subnetting, route advertisement, and path selection.
 ### **🔸 Security Labs**
 - [ACLs](./security-labs/acl) – Traffic filtering and access control.
-- NAT/PAT – IP translation for WAN/Internet access.
+- [NAT/PAT](./security-labs/nat-pat) – IP translation for WAN/Internet access.
 ### **🔸 Troubleshooting Scenarios**
-- Troubleshooting
+- [Troubleshooting](./troubleshooting)
 - Intentionally broken labs to demonstrate diagnosis + repair process.
 ### **🔸 Complete Network Designs**
 - Enterprise Networks
@@ -46,7 +46,7 @@ This repo shows:
 
 - **Configuration fluency** (raw configs + guides)
 - **Troubleshooting process** (broken/fixed labs)
-- **Documentation habit**s (markdown + screenshots)
+- **Documentation habits** (markdown + screenshots)
 - **Initiative:** building labs without physical routers/switches
 
 _📌 Built with GNS3, Cisco Packet Tracer, VMware, VPCS, pfSense, and open-source tools._
