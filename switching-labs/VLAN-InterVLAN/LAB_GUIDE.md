@@ -127,14 +127,16 @@ ping 192.168.10.10
 ## 🔀 Troubleshooting Variants
 This lab also includes intentionally broken scenarios to showcase troubleshooting and repair skills.
 ### Variant 1 – Wrong VLAN Assignment
-- Broken Config
-- Fixed Config
+- [Broken Config](./variant1-broken/README.md)  
+- [Fixed Config](./variant1-fixed/README.md)  
+
 ### Variant 2 – Missing Trunk
-- Broken Config
-- Fixed Config
+- [Broken Config](./variant2-broken/README.md)  
+- [Fixed Config](./variant2-fixed/README.md)  
+
 ### Variant 3 – Wrong Default Gateway
-- Broken Config
-- Fixed Config
+- [Broken Config](./variant3-broken/README.md)  
+- [Fixed Config](./variant3-fixed/README.md)  
 
 ---
 ✅ These demonstrate how small misconfigurations can break connectivity — and how to systematically troubleshoot using show, ping, and config verificatio
