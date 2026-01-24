@@ -339,14 +339,19 @@ show ip route ospf
 <img width="990" height="550" alt="r2_ospf_neighbor" src="https://github.com/user-attachments/assets/d82e80b0-71b8-41a5-9043-be596900f5f8" />
 
 
-![OSPF-learned routes on PCs](./screenshots/ospf_ip_route_other_pcs.png)
+<img width="1264" height="414" alt="ospf_ip_route_other_pcs" src="https://github.com/user-attachments/assets/af5c5e9f-4f17-468c-b39e-4533d0934f68" />
 
-![PC1 ping PC2 (OSPF)](./screenshots/pc1_ping_dynamic.png)
 
-![R2 interfaces shut down](./screenshots/shutdown.png)
+<img width="990" height="550" alt="pc1_ping_dynamic" src="https://github.com/user-attachments/assets/8cd856b5-777e-470a-85ce-1ca0816ab644" />
 
-![Neighbor down log on R1](./screenshots/down_no_neighbor.png)
 
-![No routes after shutdown](./screenshots/routes_gone_after_shutdown.png)
+<img width="990" height="550" alt="shutdown" src="https://github.com/user-attachments/assets/cbbac3ef-d56d-4082-b6b2-7bb0f0c985c7" />
 
-![OSPF recovery after re-enable](./screenshots/ospf_recovery.png)
+
+<img width="2488" height="820" alt="down_no_neighbor" src="https://github.com/user-attachments/assets/4688a722-4ff7-466f-8c35-5a5b01af4f35" />
+
+
+<img width="2500" height="832" alt="routes_gone_after_shutdown" src="https://github.com/user-attachments/assets/eeb4c4e0-43bb-4546-9780-03df5fda98f3" />
+
+<img width="2640" height="250" alt="ospf_recovery" src="https://github.com/user-attachments/assets/cd8eca56-21d5-4db0-a63d-dd8f5ec7c509" />
+
