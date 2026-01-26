@@ -79,15 +79,21 @@ A wrong default gateway stops packets at the source. Before I troubleshoot VLANs
 * Subnet mask
 * Default gateway
 
-![Topology](./screenshots/topology.png) Topology
+<img width="2758" height="1236" alt="topology (1)" src="https://github.com/user-attachments/assets/dc93175e-f069-4e04-a489-f27235448990" />
+ Topology
 
-![Phase 1 Wrong Gateway](./screenshots/p1-pc-wrong-gateway.png) Phase 1 Wrong Gateway
+<img width="1456" height="1478" alt="p1-pc-wrong-gateway" src="https://github.com/user-attachments/assets/e1ff5c59-e463-4aa5-96ed-da3b48390517" />
+ Phase 1 Wrong Gateway
 
-![Phase 1 PC Ping Fail](./screenshots/p1-pc-ping-fail.png) Phase 1 PC Ping Fail
+<img width="931" height="940" alt="p1-pc-ping-fail" src="https://github.com/user-attachments/assets/0b5973f6-4ad1-4fbc-a195-c1636635f1fe" />
+ 
+ Phase 1 PC Ping Fail
 
-![Phase 1 CPT Simulation Mode](./screenshots/p1-cpt-sim-mode.png) Phase 1 CPT Simulation Mode
+<img width="1980" height="1258" alt="p1-cpt-sim-mode" src="https://github.com/user-attachments/assets/2699a7a6-938e-42fe-b62c-c7e7f62ed030" />
+ Phase 1 CPT Simulation Mode
 
-![Phase 1 Ping Success](./screenshots/p1-pc-ping-success.png) Phase 1 Ping Success
+<img width="1450" height="1460" alt="p1-pc-ping-success" src="https://github.com/user-attachments/assets/2efd12e8-0033-4aea-83e9-34e55200fd07" />
+ Phase 1 Ping Success
 
 
 ---
@@ -188,15 +194,20 @@ After that:
 * Replies returned through the correct VLAN
 * Ping succeeded normally
 
-![Phase 2 Show Switch Interface](./screenshots/p2-show-sw-int.png) Phase 2 Show Switch Interface
+<img width="1764" height="1500" alt="p2-show-sw-int" src="https://github.com/user-attachments/assets/1139fd3e-9d7d-4558-8850-c521f87b6e9a" />
+ Phase 2 Show Switch Interface
 
-![Phase 2 VLAN Brief](./screenshots/p2-vlan-brief.png) Phase 2 VLAN Brief
+<img width="1874" height="1480" alt="p2-vlan-brief" src="https://github.com/user-attachments/assets/f92f1a58-1759-4870-9403-c380ddbbd71e" />
+ Phase 2 VLAN Brief
 
-![Phase 2 VLAN 10 Ping Fail](./screenshots/p2-vlan10-pingfail.png) Phase 2 VLAN 10 Ping Fail
+<img width="1466" height="1472" alt="p2-vlan10-pingfail" src="https://github.com/user-attachments/assets/0faa5131-e344-4a6f-87a4-aad1a1df517a" />
+ Phase 2 VLAN 10 Ping Fail
 
-![Phase 2 Switchport Correction](./screenshots/p2-correct-sw-config.png) Phase 2 Switchport Correction
+<img width="1450" height="1478" alt="p2-correct-sw-config" src="https://github.com/user-attachments/assets/880ee869-67cb-43e8-80b8-759493eff0ab" />
+ Phase 2 Switchport Correction
 
-![Phase 2 Ping Success #1](./screenshots/p2-ping-success.png) Phase 2 Ping Success
+<img width="1470" height="1476" alt="p2-ping-success" src="https://github.com/user-attachments/assets/c2029195-b98d-45f3-8df4-d297f588bdf2" />
+ Phase 2 Ping Success
 
 
 ---
@@ -322,11 +333,14 @@ Immediately:
 * OSPF tables updated
 * Pings to `192.168.20.1` succeeded again
 
-![Phase 3 Missing Network](./screenshots/p3-missing-network.png) Phase 3 Missing Network
+<img width="1468" height="1472" alt="p3-missing-network" src="https://github.com/user-attachments/assets/546fe272-af78-40a6-94f6-f41143dd1756" />
+ Phase 3 Missing Network
 
-![Phase 3 R2 Ping Fail](./screenshots/p3-r2-ping-fail.png) Phase 3 R2 Ping Fail
+<img width="2022" height="1480" alt="p3-r2-ping-fail" src="https://github.com/user-attachments/assets/848f9a05-bda2-4df2-a9fc-52208a32ebf5" />
+ Phase 3 R2 Ping Fail
 
-![Phase 3 R2 Ping Success](./screenshots/p3-r2-ping-success.png) Phase 3 R2 Ping Success
+<img width="2022" height="1470" alt="p3-r2-ping-success" src="https://github.com/user-attachments/assets/db7ee42d-1b69-4a3a-b0b3-81fa3a05788f" />
+ Phase 3 R2 Ping Success
 
 ---
 
@@ -442,11 +456,14 @@ Immediately:
 * R2 and R3 reinstalled routes
 * My ping succeeded again
 
-![Phase 4 R1 Shut Interface](./screenshots/p4-r1-shut-int.png) Phase 4 R1 Shut Interface
+<img width="2206" height="1458" alt="p4-r1-shut-int" src="https://github.com/user-attachments/assets/15aff9ce-73dd-4a54-981a-1bb6d37a25d6" />
+ Phase 4 R1 Shut Interface
 
-![Phase 4 R3 Ping Fail](./screenshots/p4-r3-ping-fail.png) Phase 4 R3 Ping Fail
+<img width="1468" height="1478" alt="p4-r3-ping-fail" src="https://github.com/user-attachments/assets/7111d6af-3521-4eb8-8957-a508064d1e3b" />
+ Phase 4 R3 Ping Fail
 
-![Phase 4 R3 Ping Success](./screenshots/p4-r3-ping-success.png) Phase 4 R3 Ping Success
+<img width="1454" height="1472" alt="p4-r3-ping-success" src="https://github.com/user-attachments/assets/85db844a-c67d-4417-94be-81fd2bf0deb2" />
+ Phase 4 R3 Ping Success
 
 
 ---
