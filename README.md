@@ -18,7 +18,7 @@ This repository is my hands-on CCNA portfolio, showcasing:
 ### **🔸 Routing Labs** 
 - [Static & Dynamic Routing](./routing-labs/static-ospf) - demonstrating subnetting, route advertisement, neighbor relationships, and dynamic path selection.
 ### **🔸 Security Labs**
-- [Access Control List(ACL)](./security-labs/acl) - Implemented standard and extended ACLs for traffic filtering and access control.
+- [Access Control List (ACL)](./security-labs/acl) - Implemented standard and extended ACLs for traffic filtering and access control.
 - [Network Address Translation/Port Address Translation (NAT/PAT)](./security-labs/nat-pat) - Configured NAT and PAT for private-to-public IP address translation.
 ### **🔸 Troubleshooting Scenarios**
 - [Troubleshooting](./troubleshooting) - Intentionally broken labs to demonstrate diagnosis + repair process.
