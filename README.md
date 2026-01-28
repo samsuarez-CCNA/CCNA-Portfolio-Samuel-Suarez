@@ -16,7 +16,7 @@ This repository is my hands-on CCNA portfolio, showcasing:
 -  [VLAN & Inter-VLAN Routing](./switching-labs/VLAN-InterVLAN)  - Configure VLANs, router-on-a-stick, and troubleshoot common issues. 
 -  [Spanning Tree Protocol (STP)](./switching-labs/STP) - Configured and verified STP to prevent Layer 2 loops and ensure network stability.
 ### **🔸 Routing Labs** 
-- [Static & Dynamic Routing (OSPF focus)](./routing-labs/static-ospf) - demonstrating subnetting, route advertisement, neighbor relationships, and dynamic path selection.
+- [Static & Dynamic Routing](./routing-labs/static-ospf) - demonstrating subnetting, route advertisement, neighbor relationships, and dynamic path selection.
 ### **🔸 Security Labs**
 - [ACLs](./security-labs/acl) - Implemented standard and extended ACLs for traffic filtering and access control.
 - [NAT/PAT](./security-labs/nat-pat) - Configured NAT and PAT for private-to-public IP address translation.
