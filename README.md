@@ -1,6 +1,6 @@
 
 # 🧰 CCNA Lab Portfolio – Built in GNS3 & Cisco Packet Tracer
-Welcome! I’m **Samuel Suarez** — an IT professional, building my way into network engineering & cybersecurity through hands-on labs.
+Welcome! I’m **Samuel Suarez** — a Licensed Electronics Engineer from the Philippines, building my way into network engineering & cybersecurity through hands-on labs.
 
 This repository is my hands-on CCNA portfolio, showcasing:
 
